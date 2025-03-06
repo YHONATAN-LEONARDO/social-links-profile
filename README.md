@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-## Alejandro
+## Yhonatan Leonardo Mamani Torrez
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
